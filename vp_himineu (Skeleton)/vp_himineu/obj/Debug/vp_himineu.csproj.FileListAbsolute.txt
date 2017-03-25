@@ -1,0 +1,24 @@
+C:\Users\georgi.an\Downloads\КПК\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe.config
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe.config
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.pdb
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\PowerCollections.dll
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\PowerCollections.xml
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.csprojResolveAssemblyReference.cache
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.exe
+D:\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe.config
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.exe
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\PowerCollections.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\PowerCollections.xml
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.csprojResolveAssemblyReference.cache
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\Castle.Core.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\Moq.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\Castle.Core.xml
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\vp_himineu\bin\Debug\Moq.xml
+D:\Programming stuff\Task\vp_himineu (Skeleton)\vp_himineu\bin\Debug\vp_himineu.exe.config
+D:\Programming stuff\Task\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.exe
+D:\Programming stuff\Task\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.pdb

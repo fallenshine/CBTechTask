@@ -1,0 +1,12 @@
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\UnitTesting1.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\UnitTesting1.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\vp_himineu.exe
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\vp_himineu.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\obj\Debug\UnitTesting1.csprojResolveAssemblyReference.cache
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\obj\Debug\UnitTesting1.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\obj\Debug\UnitTesting1.pdb
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\Castle.Core.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\Moq.dll
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\Castle.Core.xml
+D:\Programming stuff\Задачка\vp_himineu (Skeleton)\UnitTesting1\bin\Debug\Moq.xml
